@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Status Bar</string>
+    <string name="hello_world">Click me!</string>
+    <string name="action_settings">Settings</string>
+</resources>
